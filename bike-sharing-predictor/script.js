@@ -2,7 +2,7 @@ $(function() {
     var numDays = 2;
     var appId = 'b231606340553d9174136f7f083904b3';
     var location = 'singapore';
-    var apiUrl = 'http://api.openweathermap.org/data/2.5/forecast/daily';
+    var apiUrl = 'https://api.openweathermap.org/data/2.5/forecast/daily';
 
     // get daily weather forecast
     $.ajax({
