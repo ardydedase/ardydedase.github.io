@@ -79,9 +79,16 @@ function calculateRawPredictivateValue(hour, dailyWeatherData) {
     console.log("adjusted data:");
     console.log(adjustedTemp, adjustedATemp, adjustedHumidity, adjustedWindSpeed);
     console.log("hour: " + hour);
+
+    var holiday = 0;
+
+    if (weekday == 0 || weekday == 6) {
+        holiday = 1;
+    }
+
     var rawPredictedValue = 
         (chr * hour) + 
-        (choliday * 0) + 
+        (choliday * holiday) + 
         (cweekday * weekday) + 
         (cweathersit * weatherSituation) + 
         (ctemp * adjustedTemp) + 
@@ -98,6 +105,12 @@ function getPredictedDemand(dailyWeatherData) {
     // temperature day / feeling vs actual?
     // humidity
     // windspeed
+
+    var timestampInMilliSeconds = dailyWeatherData.dt * 1000; 
+    var date = new Date(timestampInMilliSeconds); //create the date object    
+
+    var panel = $('<div class="panel panel-default"> <div class="panel-heading"> <h3 class="panel-title"></h3> </div> <div class="panel-body"> <ul></ul> </div></div>');
+    panel.find(".panel-title").append(date);
     var rawPredictedValue;
     for (var i = 0; i < 24; i++) {
         rawPredictedValue = calculateRawPredictivateValue(i, dailyWeatherData);
@@ -106,8 +119,13 @@ function getPredictedDemand(dailyWeatherData) {
         // RMSE = 0.89
         var minPredicatedValue = rawPredictedValue - ((1 - 0.89) * rawPredictedValue);
         var maxPredictedValue = rawPredictedValue + ((1 - 0.89) * rawPredictedValue);
-        console.log(minPredicatedValue + " to " + maxPredictedValue);        
+        console.log(minPredicatedValue + " to " + maxPredictedValue);
+
+        panel.find("ul").append("<li>HR" + (i + 1) + ": " + minPredicatedValue + " to " + maxPredictedValue + "</li>");
     }
+
+    $("#result").append(panel);
+
 
 }
 
@@ -117,29 +135,3 @@ function runPredictions(dailyWeatherList) {
         var rawPredictedValue = getPredictedDemand(dailyWeatherData);
     });
 }
-
-// var chr = 3.095678; 
-// var choliday = -14.527039; // Whether it is holiday or not
-// var cweekday = 2.274601; // Day of the week
-// var cweathersit = -12.239456; // 1 = Clear, 2 = Misty, 3 = Light rain or snow, 4 = heavy rain
-// var ctemp = 335.339553 * 41; // Degree celsius
-// var catemp = 25.301369 * 50; // Degree celsius
-// var chum = -78.364862 * 100; // %
-// var cwindspeed = -21.393127 * 67; // mph 
-
-// // Using linear regression to calculate the raw value
-// var rawPredictedValue = 
-// (chr * 0) + 
-// (choliday * 0) + 
-// (cweekday * 6) + 
-// (cweathersit * 2) + 
-// (ctemp * 0.46) + 
-// (catemp * 0.4545) + 
-// (chum * 0.72) + 
-// (cwindspeed * 0.2836)
-
-// // Calculate the range of possible values
-// // RMSE = 0.89
-// var minPredicatedValue = rawPredictedValue - ((1 - 0.89) * rawPredictedValue);
-// var maxPredictedValue = rawPredictedValue + ((1 - 0.89) * rawPredictedValue);
-// console.log(minPredicatedValue + " to " + maxPredictedValue);
