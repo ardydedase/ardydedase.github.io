@@ -8,38 +8,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <script src="script.js"></script>  
-  <script type="text/javascript">
-
-    $(function() {
-          var apiUrl = 'http://api.openweathermap.org/data/2.5/forecast/daily?q=washington,usa&cnt=3&appid=b231606340553d9174136f7f083904b3&units=metric';
-
-        // Using YQL and JSONP
-        $.ajax({
-            url: apiUrl,
-         
-            // The name of the callback parameter, as specified by the YQL service
-            jsonp: "callback",
-         
-            // Tell jQuery we're expecting JSONP
-            dataType: "jsonp",
-         
-            // Tell YQL what we want and that we want JSON
-            // data: {
-            //     q: "select title,abstract,url from search.news where query=\"cat\"",
-            //     format: "json"
-            // },
-         
-            success: function( response ) {
-                console.log( response ); // server response
-                // get temp, weather, humidity
-            }
-        });           
-
-    });
-   
-
-  </script>
+  <script src="script.js"></script>
 </head>
 <body>
 
