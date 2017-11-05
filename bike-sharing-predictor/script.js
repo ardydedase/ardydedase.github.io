@@ -71,7 +71,7 @@ function calculateRawPredictivateValue(hour, dailyWeatherData) {
     console.log(weekday);
 
     // Using linear regression to calculate the raw value
-    var adjustedTemp = dailyWeatherData.temp.day / 41;
+    var adjustedTemp = dailyWeatherData.temp.day / 50;
     var adjustedATemp = dailyWeatherData.temp.day / 50;
     var adjustedHumidity = dailyWeatherData.humidity / 100;
     var adjustedWindSpeed = 0.2836;
