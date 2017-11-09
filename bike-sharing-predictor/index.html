@@ -8,11 +8,15 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
   <script src="script.js"></script>
 </head>
 <body>
 
 <div class="container">
+
     <h1>Bike sharing predictor</h1>
     <h2>Authors</h2>
     <ul>
@@ -22,12 +26,21 @@
       <li>Siew Voon Long</li>
     </ul>
 
-    <h2>Predicted demand in the next 2 days in Singapore</h2>
+    <h2>Predicted demand in the next 5 days, 3 hours interval in Washington</h2>
     
+	<table class="table table-striped">
+		<thead>
+		  <tr>
+			<th>Date and Time</th>
+			<th>Weather Condition</th>
+			<th>Estimated Rental Count</th>
+		  </tr>
+		</thead>
+		<tbody id="result_table">
+		  
+		</tbody>
+	  </table>
 
-    <div id="result">
-
-    </div>
 </div>
 
 </body>
