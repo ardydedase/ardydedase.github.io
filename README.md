@@ -12,7 +12,7 @@
 ### Bike Sharing Analysis
 
 - [Bike Sharing Predictor Web App](https://ardydedase.github.io/bike-sharing-predictor/index.html)
-- [Formula (4th order polynomial)](https://github.com/ardydedase/ardydedase.github.io/blob/master/bike-sharing-predictor/script.js#L31)
+- [Formula (2nd order polynomial)](https://github.com/ardydedase/ardydedase.github.io/blob/master/bike-sharing-predictor/script.js#L31)
 - [iPython Notebook](https://github.com/ardydedase/bike-sharing-analysis/blob/master/bike-sharing.ipynb)
 - [Data set](https://github.com/ardydedase/bike-sharing-analysis/tree/master/Bike-Sharing-Dataset)
 
