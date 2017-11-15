@@ -2,9 +2,9 @@
 
 ## About me
 
-[Github](https://github.com/ardydedase)
-[LinkedIn](https://www.linkedin.com/in/ardydedase)
-[Keybase](https://keybase.io/ardydedase)
+- [Github](https://github.com/ardydedase)
+- [LinkedIn](https://www.linkedin.com/in/ardydedase)
+- [Keybase](https://keybase.io/ardydedase)
 
 
 ## Projects / Publications
@@ -17,7 +17,7 @@
 
 ### Bike Sharing Analysis
 
-[Bike Sharing Predictor Web App](https://ardydedase.github.io/bike-sharing-predictor/index.html)
-[iPython Notebook](https://github.com/ardydedase/bike-sharing-analysis/blob/master/bike-sharing.ipynb)
-[Data set](https://github.com/ardydedase/bike-sharing-analysis/tree/master/Bike-Sharing-Dataset)
+- [Bike Sharing Predictor Web App](https://ardydedase.github.io/bike-sharing-predictor/index.html)
+- [iPython Notebook](https://github.com/ardydedase/bike-sharing-analysis/blob/master/bike-sharing.ipynb)
+- [Data set](https://github.com/ardydedase/bike-sharing-analysis/tree/master/Bike-Sharing-Dataset)
 
