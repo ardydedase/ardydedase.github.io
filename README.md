@@ -1,21 +1,23 @@
 # ardydedase.github.io
 
+## About me
+
+[Github](https://github.com/ardydedase)
+[LinkedIn](https://www.linkedin.com/in/ardydedase)
+[Keybase](https://keybase.io/ardydedase)
 
 
-## Local setup
+## Projects / Publications
 
-Run the following (I'm using mac):
-```
-virtualenv venv -p /usr/local/bin/python3
-source venv/bin/activate
-pip install -r requirements.txt
-```
+### [Skyscanner Python SDK](https://github.com/Skyscanner/skyscanner-python-sdk)
 
+### [API Wrapper](https://github.com/ardydedase/apiwrapper)
 
-You might get the following error:
+### [Amadeus Python Library](https://github.com/ardydedase/amadeus-python)
 
-```
-ValueError: unknown locale: UTF-8
-```
-More info on: https://stackoverflow.com/questions/19961239/pelican-3-3-pelican-quickstart-error-valueerror-unknown-locale-utf-8
+### Bike Sharing Analysis
+
+[Bike Sharing Predictor Web App](https://ardydedase.github.io/bike-sharing-predictor/index.html)
+[iPython Notebook](https://github.com/ardydedase/bike-sharing-analysis/blob/master/bike-sharing.ipynb)
+[Data set](https://github.com/ardydedase/bike-sharing-analysis/tree/master/Bike-Sharing-Dataset)
 
