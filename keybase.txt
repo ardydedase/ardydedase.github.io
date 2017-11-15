@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ardydedase
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ardydedase.github.io
+  * I am ardydedase (https://keybase.io/ardydedase) on keybase.
+  * I have a public key with fingerprint 2BA3 9547 7D1C 4B0A B9D1  8930 B83C E630 2E73 3E1E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010f7821d9fa2cf9035fe2715b4d29f8360815f09687296c488d9e8c9a1905b9f90a",
+      "fingerprint": "2ba395477d1c4b0ab9d18930b83ce6302e733e1e",
+      "host": "keybase.io",
+      "key_id": "b83ce6302e733e1e",
+      "kid": "01010f7821d9fa2cf9035fe2715b4d29f8360815f09687296c488d9e8c9a1905b9f90a",
+      "uid": "b3e8550ba76b825d62f73eb23aa2a519",
+      "username": "ardydedase"
+    },
+    "service": {
+      "hostname": "ardydedase.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1510757803,
+  "expire_in": 157680000,
+  "prev": "c0eab8a33b43b2c72752e5fe072f3f3a4c177b41bcf0d47ee29d8925ebabfbf3",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBVBGD5mSVmWYER0EdkuRBxsd2bnzO6ph7IMQnsIPUFmnmZ2ZnXL
+dk97Vk9ih1AqkKALJhWUUpKBByoy6UJFWmB3CioquiGVEV0gjCALmrV6qsdmHob5
++b7v/76f/2pWeiAzrTmtsQ/1zstOu9lzpCZQNi6Sqpeow+qkcL20ng8/vJrxuBdd
+bzEpLMmKuCbWgMJ0kwDD1GWITA6wgqjKgG5qMCRrCjJlPaRhoIcMVdOYzjVDJ4ou
+I6oLBpGCkmnZldyNuZbtCVlACdSRijFTDJXKhOpM0XQoUw0aPARlwDGEXOGCWOXE
+fYYwR0mc51uOqIlPdNjeP/D/2XfNrz6QawjJlOAQ1QBiIWBiyCmAhACCFN0Hxrlr
+kw1coInL6hhnwq6UDEqiXmsZ3B+tn+UvTH6l5VXV0F/JYq7jOYZTLRBVnheLh30F
+ry7mUxKcRn+LRallMzFRwajlbtxybCmsCKThWb66ghQZI6zJMCjxTTHL5VHLRyAc
+0mRx/D68VkgaMidUIxBSFVJgYIAR4GJOMgYmNCFRDQVjqirUMGWmYs6BzjQdIE4J
+NakJJT/eRtuRwlC08kil0IxblTbxalwRvvdy+chAWmYgY9QIf9UCmWOy/yzgorLR
+gW0lrdaCx7nN/Q1HW+P3NyyLrLl7I7E7/1D0QSLr1omBdB2lltYdvzHnVHfXi/m4
+sM3p+f792qZTrhMJNr2Zt7Mwmnk9J5l+pTHVf2D20xVyb0Z7wfY377q3fvv4pKPv
+zoXAWro46BQ9Ln6+8Nm5po1qXl572eCZwxWvSvI7j8MXzL1tT418mo6T56OTpxZ/
+XNNSzCJfW7bMLB+7+snyXYjnDO3xXn9J1m/uHOh72PF+3fglT3MKiuaOrpjb44RS
+XYP7V3m5r7OnvxpxckfFvYT7aH6D+XZv34+VE06WrjAnHvxUffZSNztWOmnflynP
+1322U9Nedpz+MBS4mN3woe1KkTdj1k9ikERY
+=fwc8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ardydedase
+
+==================================================================
