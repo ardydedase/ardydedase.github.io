@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Ardy Dedase'
 SITENAME = 'ardydedase.github.io'
-SITEURL = ''
+SITEURL = 'https://ardydedase.github.io/articles'
 
 PATH = 'content'
 
@@ -33,3 +33,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+OUTPUT_PATH = 'articles'
