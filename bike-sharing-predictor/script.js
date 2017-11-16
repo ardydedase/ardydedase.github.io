@@ -52,7 +52,7 @@ $(function() {
                 
                 var weatherCondition = "<img src='http://openweathermap.org/img/w/" + v.weather[0].icon + ".png'/><br/>" + 
                 "Temperature: " + v.main.temp + "&#8451;<br/>" + 
-                "Humility: " + v.main.humidity + "%<br/>" + 
+                "Humidity: " + v.main.humidity + "%<br/>" + 
                 "Windspeed: " + Math.round(v.wind.speed * 2.23694 * 100) / 100 + "KM/h<br/>"
                 ;
                     
