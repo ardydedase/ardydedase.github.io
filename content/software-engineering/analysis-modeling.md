@@ -10,7 +10,7 @@ Analysis modeling has three dimensions:
 
 ### Boundary Objects (Presentation)
 
-Objects that interact directly from Actors e.g. input data from a form.
+Objects that interact directly with Actors e.g. input data from a form.
 
 
 ![Boundary Object](BoundaryObject.png)
