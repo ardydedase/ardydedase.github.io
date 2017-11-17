@@ -6,10 +6,10 @@ Currently pursuing a career in travel tech and academia.
 I am passionate about harnessing the latest technological advances in order to provide value to the world.
 I use this page to keep track of my fun projects outside work, including my thoughts about Software Engineering.
 
-- [Github](https://github.com/ardydedase)
-- [LinkedIn](https://www.linkedin.com/in/ardydedase)
-- [Keybase](https://keybase.io/ardydedase)
-
+- [Github](https://github.com/ardydedase) <-> Open Source
+- [LinkedIn](https://www.linkedin.com/in/ardydedase) <-> Professional
+- [Keybase](https://keybase.io/ardydedase) <-> Crypto
+- [Trip](https://www.trip.skyscanner.com/user/ardy-dedase) <-> Travel
 
 ## Projects
 
