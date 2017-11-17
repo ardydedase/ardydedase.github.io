@@ -7,7 +7,7 @@
 - [Keybase](https://keybase.io/ardydedase)
 
 
-## Projects / Publications
+## Projects
 
 ### Bike Sharing Analysis
 
@@ -22,4 +22,8 @@
 
 ### [Amadeus Python Library](https://github.com/ardydedase/amadeus-python)
 
+## Software Engineering Notes
 
+Software Engineering notes I write based on my learnings from academia and experience.
+
+### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md)
