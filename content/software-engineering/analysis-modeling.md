@@ -15,18 +15,23 @@ Objects that interact directly with Actors e.g. input data from a form.
 
 ![Boundary Object](BoundaryObject.png)
 
+*Figure 1. Boundary Object's symbol.*
 
 ### Entity Objects (Information)
 
 Contains the information required that needs to be passed across the objects.
 
-![Boundary Object](EntityObject.png)
+![Entity Object](EntityObject.png)
+
+*Figure 2. Entity Object's symbol.*
 
 ### Control Objects (Behaviour)
 
 Decides the behaviour of the system overall.
 
-![Boundary Object](ControlObject.png)
+![Control Object](ControlObject.png)
+
+*Figure 3. Control Object's symbol.*
 
 ## Identifying Objects
 
