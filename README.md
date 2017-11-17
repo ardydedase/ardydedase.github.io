@@ -26,4 +26,4 @@
 
 Software Engineering notes I write based on my learnings from academia and experience.
 
-### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md)
+### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md#analysis-modeling)
