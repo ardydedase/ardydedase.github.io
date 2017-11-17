@@ -1,7 +1,3 @@
-Title: Bank Customer Management System
-Date: 2017-11-06 10:58
-Category: Case Studies
-
 # Bank Customer Management System
 
 ### Main use cases
