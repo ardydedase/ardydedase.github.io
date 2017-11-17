@@ -60,7 +60,7 @@ Entity Objects are often found in the Domain Object Model.
 
 Control Objects are usually the last objects to identify. Any behaviour that can't be classified as either Boundary or Entity will usually fall under Control Objects.
 
-Behaves as a glue that connect the other objects of the system.
+Control Objects can also behave as a glue that connects the other objects of the system together.
 
 #### Typical behaviours
 - Transaction-related
