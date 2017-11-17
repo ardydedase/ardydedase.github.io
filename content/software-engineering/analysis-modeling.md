@@ -72,7 +72,7 @@ Behaves as a glue that connect the other objects of the system.
 - Exceptions are when 
  - Control object appears in another use case.
  - Behaviour is complex that it needs more than one control object.
- - Explicitly pecified by the use case.
+ - Explicitly specified by the use case.
 
  
 
