@@ -79,6 +79,19 @@ Control Objects can also behave as a glue that connects the other objects of the
  - Behaviour is complex that it needs more than one control object.
  - Explicitly specified by the use case.
 
+## Defining Analysis Objects
+ 
+ Think about the Classes that you need to instatiate the objects that you have defined. 
+ These Classes will have the properties that it needs to satisfy the use cases.
+ 
+At this point, a Class Diagram will be useful in defining your Analysis Object.
+ 
+### Properties
+ - Attributes
+ - Behaviours
+ - Relationships with other classes
+  
+
  
 
 
