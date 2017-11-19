@@ -13,6 +13,9 @@ Writing down the operations or methods is optional. This will depend on the comp
 
 ## Translate the Class Diagram to Skeletal Classes
 
+This will be a good starting point for discussion with your team of how you structure your classes.
+Most of the time, you will get ideas from other engineers. You will need to figure out what works best and find ways to manage the tradeoffs in your design. 
+
 Skeletal classes include:
 
 - Class declarations
@@ -63,3 +66,5 @@ public class Gamer {
 }
 
 ```
+
+You'll notice that I skipped the `Move` class. This is because the operations that belong to that class are a little more obvious compared to the other classes. You can easily tell its association with the `Gamer` class in code snippet.
