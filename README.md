@@ -30,9 +30,9 @@ This is a group work about predicting bike sharing demand using machine learning
 
 ### [Amadeus Python Library](https://github.com/ardydedase/amadeus-python)
 
-## Software Engineering Notes
+## Software Engineering
 
-Notes written based on my learnings from academia and work experience.
+Written based on my learnings from academia and work experience.
 
 ### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md#analysis-modeling)
 ### [Class Diagrams to Skeletal Classes](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/class-diagrams-to-skeletal-classes.md#class-diagrams-to-skeletal-classes)
