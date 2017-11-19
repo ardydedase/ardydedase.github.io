@@ -17,7 +17,7 @@ I use this page to keep track of my collaborative fun projects outside work, inc
 
 ### Bike Sharing Analysis
 
-This is a group work about predicting bike sharing demand using machine learning, please see the web app for credits.
+This is a group effort to predict bike sharing demand using machine learning, please see the web app for credits.
 
 - [Bike Sharing Predictor Web App](https://ardydedase.github.io/bike-sharing-predictor/index.html)
 - [Formula (2nd order polynomial)](https://github.com/ardydedase/ardydedase.github.io/blob/master/bike-sharing-predictor/script.js#L31)
