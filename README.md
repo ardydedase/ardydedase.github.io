@@ -2,9 +2,9 @@
 
 ## About me
 
-Currently pursuing a career in travel tech and academia.
+Currently based in Singapore, pursuing a career in travel tech ([Skyscanner](https://www.skyscanner.net/)) and academia ([NUS](http://www.nus.edu.sg/)).
 I am passionate about harnessing the latest technological advances in order to add value to the world.
-I use this page to keep track of my collaborative fun projects outside work, including my thoughts about Software Engineering.
+I use this page to keep track of my collaborative fun projects outside work and my thoughts on Software Engineering.
 
 
 ### My profiles on the web
@@ -32,14 +32,12 @@ This is a group effort to predict bike sharing demand using machine learning, pl
 
 ## Software Engineering
 
-Written based on my learnings from academia and work experience.
-
 ### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md#analysis-modeling)
 ### [Class Diagrams to Skeletal Classes](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/class-diagrams-to-skeletal-classes.md#class-diagrams-to-skeletal-classes)
 
-## Cryptocurrency
+## Coffee
 
-If you find my work useful, you can thank me through my Bitcoin or Litecoin address:
+If you find my work useful, you can buy me coffee through my Bitcoin or Litecoin address:
 
 - BTC: `1B63Wg1Pu1i65sD9Ubt7J3NqLaeyUawyTV`
 - LTC: `LPDkAg1T7RAoAjFDzFp5yX9uTDGySjQ8eD`
