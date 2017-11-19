@@ -15,7 +15,7 @@ Analysis modeling has three dimensions:
 Objects that interact directly with Actors e.g. input data from a form.
 
 
-![Boundary Object](BoundaryObject.png)
+![Boundary Object](images/BoundaryObject.png)
 
 *Figure 1. Boundary Object's symbol.*
 
@@ -23,7 +23,7 @@ Objects that interact directly with Actors e.g. input data from a form.
 
 Contains the information required that needs to be passed across the objects.
 
-![Entity Object](EntityObject.png)
+![Entity Object](images/EntityObject.png)
 
 *Figure 2. Entity Object's symbol.*
 
@@ -31,7 +31,7 @@ Contains the information required that needs to be passed across the objects.
 
 Decides the behaviour of the system overall.
 
-![Control Object](ControlObject.png)
+![Control Object](images/ControlObject.png)
 
 *Figure 3. Control Object's symbol.*
 
@@ -108,7 +108,7 @@ This example will use the Analysis objects described above and as illustrated in
 
 Refer to Figure 4 below for the Create Customer Collaboration Diagram.
 
-![Create Customer Collaboration Diagram](am-create-customer-use-case.jpg)
+![Create Customer Collaboration Diagram](images/am-create-customer-use-case.jpg)
 
 *Figure 4. Create Customer Collaboration Diagram. Please excuse my handwriting.*
 
