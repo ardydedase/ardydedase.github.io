@@ -1,6 +1,6 @@
 # Analysis Modeling
 
-Analysis modeling in Software Engineering provides a high level technical and business presentation of the Software Requirements.
+Analysis modeling in Software Engineering provides high level technical and business presentation of the Software Requirements.
 
 Analysis modeling has three dimensions:
 
