@@ -4,7 +4,7 @@
 
 Currently pursuing a career in travel tech and academia.
 I am passionate about harnessing the latest technological advances in order to add value to the world.
-I use this page to keep track of my fun projects outside work, including my thoughts about Software Engineering.
+I use this page to keep track of my collaborative fun projects outside work, including my thoughts about Software Engineering.
 
 
 ### My profiles on the web
@@ -16,6 +16,8 @@ I use this page to keep track of my fun projects outside work, including my thou
 ## Projects
 
 ### Bike Sharing Analysis
+
+This is a group work about predicting bike sharing demand using machine learning, please see the web app for credits.
 
 - [Bike Sharing Predictor Web App](https://ardydedase.github.io/bike-sharing-predictor/index.html)
 - [Formula (2nd order polynomial)](https://github.com/ardydedase/ardydedase.github.io/blob/master/bike-sharing-predictor/script.js#L31)
@@ -30,6 +32,14 @@ I use this page to keep track of my fun projects outside work, including my thou
 
 ## Software Engineering Notes
 
-Notes written based on my learnings from academia and experience.
+Notes written based on my learnings from academia and work experience.
 
 ### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md#analysis-modeling)
+### [Class Diagrams to Skeletal Classes](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/class-diagrams-to-skeletal-classes.md)
+
+## Cryptocurrency
+
+If you find this page useful, I don't mind accepting donations through Bitcoin or Litecoin:
+
+- BTC: `1B63Wg1Pu1i65sD9Ubt7J3NqLaeyUawyTV`
+- LTC: `LPDkAg1T7RAoAjFDzFp5yX9uTDGySjQ8eD`
