@@ -39,7 +39,7 @@ Notes written based on my learnings from academia and work experience.
 
 ## Cryptocurrency
 
-If you find this page useful, I don't mind accepting donations through Bitcoin or Litecoin:
+If you find my work useful, you can also thank me through Bitcoin or Litecoin:
 
 - BTC: `1B63Wg1Pu1i65sD9Ubt7J3NqLaeyUawyTV`
 - LTC: `LPDkAg1T7RAoAjFDzFp5yX9uTDGySjQ8eD`
