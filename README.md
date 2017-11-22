@@ -34,6 +34,7 @@ This is a group effort to predict bike sharing demand using machine learning, pl
 
 ### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md#analysis-modeling)
 ### [Class Diagrams to Skeletal Classes](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/class-diagrams-to-skeletal-classes.md#class-diagrams-to-skeletal-classes)
+### [Software Security Concepts](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/security-concepts.md#software-security-concepts)
 
 ## Coffee
 
