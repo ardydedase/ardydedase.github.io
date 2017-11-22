@@ -1,6 +1,6 @@
 # Software security concepts
 
-Below are some notes about software security. This will cover the fundamentals and most common use cases.
+This will cover sofware security fundamentals with some of its most common use cases.
 
 ## Typical security objectives
 

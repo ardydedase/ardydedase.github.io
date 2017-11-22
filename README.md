@@ -25,20 +25,31 @@ This is a group effort to predict bike sharing demand using machine learning, pl
 - [Data set](https://github.com/ardydedase/bike-sharing-analysis/tree/master/Bike-Sharing-Dataset)
 
 ### [Skyscanner Python SDK](https://github.com/Skyscanner/skyscanner-python-sdk)
+Python SDK for Skyscanner's API.
 
 ### [API Wrapper](https://github.com/ardydedase/apiwrapper)
+Noticed a pattern and repeated pieces of code in Python API wrappers for simple requests and polling.
 
 ### [Amadeus Python Library](https://github.com/ardydedase/amadeus-python)
+Python Package for Amadeus Travel Innovation Sandbox.
+
 
 ## Software Engineering
+*I keep notes of what I learn from work experience and academia.*
 
 ### [Analysis Modeling](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/analysis-modeling.md#analysis-modeling)
+Analysis modeling in Software Engineering provides high level technical and business presentation of the Software Requirements.
+
 ### [Class Diagrams to Skeletal Classes](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/class-diagrams-to-skeletal-classes.md#class-diagrams-to-skeletal-classes)
+This can help you figure out how you structure your classes and find out the possible flaws in your design before you start writing the code.
+
 ### [Software Security Concepts](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/security-concepts.md#software-security-concepts)
+This will cover sofware security fundamentals with some of its most common use cases.
+
 
 ## Coffee
 
-If you find my work useful, you can buy me coffee through my Bitcoin or Litecoin address:
+If you find anything on this page useful, you can buy me coffee through my Bitcoin or Litecoin address:
 
 - BTC: `1B63Wg1Pu1i65sD9Ubt7J3NqLaeyUawyTV`
 - LTC: `LPDkAg1T7RAoAjFDzFp5yX9uTDGySjQ8eD`
