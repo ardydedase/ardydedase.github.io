@@ -1,4 +1,4 @@
-# Cryptography
+# Cryptography Basics
 
 The foundation of how our transactions over the internet are secured.
 
@@ -28,7 +28,7 @@ Block ciphers takes a fixed number of bits and encrypt these bits once as a whol
 The assymetric cyptosystem utilises what is called a "key pair". The key pair can be classified as public and private keys. Private key is kept secret and should not be shared, while the public key is published publicly to be used by anyone. Figure 2 below illustrates how assymmetric cryptosystem works where the keypair is `k1` and `k2`.
 
 ![Asymmetric Cryptosystem](images/crypto-asymmetric.jpg)
-Figure 2. Symmetric Cryptosytem flow.
+Figure 2. Asymmetric Cryptosytem flow.
 
 In Figure 2 above, `k1` and `k2` can be interchanged as public and private keys:
 

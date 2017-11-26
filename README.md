@@ -46,6 +46,8 @@ This can help you figure out how you structure your classes and find out the pos
 ### [Software Security Concepts](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/security-concepts.md#software-security-concepts)
 This will cover sofware security fundamentals with some of its most common use cases.
 
+### [Cryptography Basics](https://github.com/ardydedase/ardydedase.github.io/blob/master/content/software-engineering/cryptography.md#cryptography)
+The foundation of how our transactions over the internet are secured.
 
 ## Coffee
 
