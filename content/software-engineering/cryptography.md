@@ -23,9 +23,9 @@ Block ciphers takes a fixed number of bits and encrypt these bits once as a whol
 - You rely on one key only.
 - Practically it can be hard to share the same key across different parties.
 
-## Assymetric Cryptosystem
+## Asymmetric Cryptosystem
 
-The assymetric cyptosystem utilises what is called a "key pair". The key pair can be classified as public and private keys. Private key is kept secret and should not be shared, while the public key is published publicly to be used by anyone. Figure 2 below illustrates how assymmetric cryptosystem works where the keypair is `k1` and `k2`.
+The asymmetric cyptosystem utilises what is called a "key pair". The key pair can be classified as public and private keys. Private key is kept secret and should not be shared, while the public key is published publicly to be used by anyone. Figure 2 below illustrates how asymmetric cryptosystem works where the keypair is `k1` and `k2`.
 
 ![Asymmetric Cryptosystem](images/crypto-asymmetric.jpg)
 Figure 2. Asymmetric Cryptosytem flow.
