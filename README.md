@@ -1,4 +1,6 @@
-## About me
+# Ardy Dedase
+
+## About
 
 Currently based in Singapore, pursuing a career in travel tech ([Skyscanner](https://www.skyscanner.net/)) and academia ([NUS](http://www.nus.edu.sg/)).
 I am passionate about harnessing the latest technological advances in order to add value to the world.
