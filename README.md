@@ -1,5 +1,3 @@
-# ardy.me
-
 ## About me
 
 Currently based in Singapore, pursuing a career in travel tech ([Skyscanner](https://www.skyscanner.net/)) and academia ([NUS](http://www.nus.edu.sg/)).
