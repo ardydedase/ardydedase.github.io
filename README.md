@@ -1,4 +1,4 @@
-# ardydedase.github.io
+# ardy.me
 
 ## About me
 
