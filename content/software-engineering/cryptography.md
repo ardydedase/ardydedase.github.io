@@ -45,11 +45,16 @@ In Figure 2 above, `k1` and `k2` can be interchanged as public and private keys:
 
 For Use case 2. The fact that the message can be decrypted by Bob using Alice's public key, Bob can be certain that the message exactly came from Alice and not from someone else.
 
+## TLS and SSL
+
+- TLS is a protocal and not cryptographic algorithm.
+- TLS depends on existing encryption and hash functions known as cipher suites.
+- It is important to choose strong cipher suites.
 
 
+![TLS sequence diagram](images/TLS.png)
 
-
-
+Figure 3. Sequence diagram that 2 systems follow to setup an encrypted session protected by TLS.
 
 
 
