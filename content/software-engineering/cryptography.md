@@ -47,7 +47,7 @@ For Use case 2. The fact that the message can be decrypted by Bob using Alice's 
 
 ## TLS and SSL
 
-- TLS is a protocal and not cryptographic algorithm.
+- TLS is a protocol and not a cryptographic algorithm.
 - TLS depends on existing encryption and hash functions known as cipher suites.
 - It is important to choose strong cipher suites.
 
